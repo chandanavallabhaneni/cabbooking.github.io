@@ -20,29 +20,22 @@ nav ul li {
     margin-right: 20px;
 }
 
-aside {
-    float: left;
-    width: 20%;
-    background-color: #f2f2f2;
-    padding: 20px;
-    box-sizing: border-box;
-}
-
 #main-content {
-    float: left;
-    width: 75%;
     padding: 20px;
     box-sizing: border-box;
 }
 
-.product {
+#booking-form {
+    margin-bottom: 20px;
+}
+
+.cab {
     border: 1px solid #ddd;
     padding: 10px;
     margin-bottom: 20px;
 }
 
 footer {
-    clear: both;
     background-color: #333;
     color: #fff;
     text-align: center;
